@@ -1,0 +1,7 @@
+*.o
+lex.*
+y.tab.*
+code.size
+*.optdump
+*.dump
+code.size
